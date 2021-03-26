@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\igorus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\igorus\\.nuget\\packages"
+    ]
+  }
+}

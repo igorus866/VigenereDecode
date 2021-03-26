@@ -1,0 +1,15 @@
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.exe
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.deps.json
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.runtimeconfig.json
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.runtimeconfig.dev.json
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.dll
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\bin\Debug\netcoreapp3.1\VigenerForm.pdb
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.csprojAssemblyReference.cache
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.Form1.resources
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.csproj.GenerateResource.cache
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.AssemblyInfoInputs.cache
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.AssemblyInfo.cs
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.csproj.CoreCompileInputs.cache
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.dll
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.pdb
+C:\Users\igorus\Desktop\progstuff\vigener\VigenerForm\VigenerForm\obj\Debug\netcoreapp3.1\VigenerForm.genruntimeconfig.cache
